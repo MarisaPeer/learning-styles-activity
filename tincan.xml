@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5as26mjnbLB_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Learning Style Questionnaire (English) - 13 07 2021</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/60i1J19YI0X" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 1</name>
+			<description lang="und">Questionnaire Slide 1</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/5fXCSuzIFEu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/5zWru4iAYiL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6ml5fMsoyiZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6ZM80NHeASc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/5b1Iok4MAr0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6VsowiyWsJK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6jnW1wkxb2k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6Ew2YKceNqI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/6aF8YITpWPX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Questionnaire Slide 2</name>
+			<description lang="und">Questionnaire Slide 2</description>
+		</activity>
+		<activity id="http://5as26mjnbLB_course_id/5WfLc1IaVfX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Total score</name>
+			<description lang="und">Total score</description>
+		</activity>
+	</activities>
+</tincan>
